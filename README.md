@@ -1,2 +1,2 @@
-# house_price
-A house price prediction model
+# car price prediction of cars in nigeria
+A  car price prediction model
